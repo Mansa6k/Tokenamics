@@ -11,7 +11,7 @@ This project demonstrates the creation and deployment of a token and crowdsale u
 # Installation
 1. Clone this repository to your local machine:
 
-https://github.com/Mansa6k/Tokenamics.git
+   https://github.com/Mansa6k/Tokenamics.git
 
 2. Install the MetaMask browser extension by following the instructions at https://metamask.io/download.html.
 
