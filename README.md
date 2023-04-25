@@ -33,4 +33,8 @@ To test the functionality of the crowdsale:
 
 # Deployment
 
-Follow the step-by-step guide provided in the Assistant's previous response to deploy the crowdsale to a local blockchain using Remix, MetaMask, and Ganache.
+1. Deploy the crowdsale to a local blockchain with Remix, MetaMask, and Ganache.
+
+2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances associated with those accounts.
+
+3. After purchasing tokens with one or more test accounts, view the total supply of minted tokens and the amount of wei that has been raised in the crowdsale contract.
