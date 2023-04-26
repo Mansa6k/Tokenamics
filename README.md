@@ -44,3 +44,28 @@ To test the functionality of the crowdsale:
 Compiled Kaseicoin Contract:
 
 <img width="1436" alt="Kaseicoin_Compiled" src="https://user-images.githubusercontent.com/118853744/234434501-72347e65-c13a-4b9f-a0ef-cf11c33040ba.png">
+
+Deployed Kaseicoin Contract: 
+
+<img width="358" alt="Deployed_Kaseicoin Contract " src="https://user-images.githubusercontent.com/118853744/234434716-f0c096a2-e9c8-4d19-89df-e618f4b1671c.png">
+
+Ganache contract creation transaction record for kaseicoin contract:
+
+<img width="1198" alt="Ganache contract creation recorded transaction " src="https://user-images.githubusercontent.com/118853744/234434921-25ef233b-47d7-4237-8cd4-f0266fc11e73.png">
+
+Compiled KaseicoinCrowdsale Contract:
+
+<img width="1436" alt="KaseicoinCrowdsale_compiled" src="https://user-images.githubusercontent.com/118853744/234435032-ba61f7b8-cf4a-4a1b-83b7-122b5715e14b.png">
+
+Deployed KaseicoinCrowdsale Contract:
+
+<img width="355" alt="Deployed_KaseicoinCrowdsale Contract" src="https://user-images.githubusercontent.com/118853744/234435153-4ad38c57-fb3b-4184-8a32-884eb7bb4350.png">
+
+Ganache contract creation transaction record for kaseicoinCrowdsale contract:
+
+<img width="1198" alt="Ganache contract creation recorded transaction 2" src="https://user-images.githubusercontent.com/118853744/234435216-781d0ef2-c6c1-4857-a604-ee2a7a0f1f27.png">
+
+
+
+
+
