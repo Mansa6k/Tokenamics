@@ -66,6 +66,12 @@ Ganache contract creation transaction record for kaseicoinCrowdsale contract:
 <img width="1198" alt="Ganache contract creation recorded transaction 2" src="https://user-images.githubusercontent.com/118853744/234435216-781d0ef2-c6c1-4857-a604-ee2a7a0f1f27.png">
 
 
+# License
 
+This project is licensed under the MIT license.
+
+# Contributor
+
+Andre Johnson
 
 
