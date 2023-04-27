@@ -57,6 +57,15 @@ Compiled KaseicoinCrowdsale Contract:
 
 <img width="1436" alt="KaseicoinCrowdsale_compiled" src="https://user-images.githubusercontent.com/118853744/234435032-ba61f7b8-cf4a-4a1b-83b7-122b5715e14b.png">
 
+Deployed kaseicoinCrowdsaleDeployer Contract:
+
+<img width="354" alt="Deployed_KaseicoinCrowdsaleDeployer Contract" src="https://user-images.githubusercontent.com/118853744/234735874-2abd91e7-950d-4105-a559-0633f5cc2954.png">
+
+Ganache contract creation transaction record for kaseicoinCrowdsaleDeployer contract:
+
+<img width="1436" alt="Ganache contract creation recorded transaction 3" src="https://user-images.githubusercontent.com/118853744/234736031-e0ea814b-56d8-42e7-86a7-8936ce29077a.png">
+
+
 Deployed KaseicoinCrowdsale Contract:
 
 <img width="355" alt="Deployed_KaseicoinCrowdsale Contract" src="https://user-images.githubusercontent.com/118853744/234435153-4ad38c57-fb3b-4184-8a32-884eb7bb4350.png">
